@@ -10,11 +10,11 @@ Este proyecto contiene el código y los archivos necesarios para el desarrollo d
 
 ## Capturas de Pantalla
 
-_Aquí puedes mostrar algunas capturas de pantalla de tu página web para dar una vista previa a los visitantes._
-
-![Captura de Pantalla 1](screenshot-1.png)
-![Captura de Pantalla 2](screenshot-2.png)
-![Captura de Pantalla 3](screenshot-3.png)
+![Modificación manual de Funciones del tema](https://i.imgur.com/TfQ1y6D.jpg)
+![Uso y manejo de Pluggins](https://i.imgur.com/7k0m9QT.jpg)
+![Visualización de Páginas-Admin](https://i.imgur.com/0WkTwRU.jpg)
+![Cliente Ceo](https://i.imgur.com/0OWGyuk.jpg)
+![Busqueda de Empleo](https://i.imgur.com/s7CwsYR.jpg)
 
 ## Características
 
